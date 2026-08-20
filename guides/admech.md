@@ -2,7 +2,7 @@
 team: admech
 display: Adeptus Mechanicus
 updated: 2026-08-17
-meta_status: "Older guide — core loop is solid but may miss recent meta/flex changes. Verify before a serious push."
+meta_status: "Older guide — core loop is solid but Admech is no longer meta."
 ---
 
 ## Overview
@@ -12,12 +12,12 @@ Rho's damage by keeping him next to the boss, using Vitruvius's targeting bonus
 to hand everyone extra shots, and spamming Tan's summons to fuel Actus's passive
 and active shots.
 
-**Core comp**
+**Core Team**
 - **Rho** — primary damage dealer
-- **Vitruvius** — target marker; grants extra shots
 - **Tan** — summoner + burst switch
 - **Actus** — summon enabler + active chain shots
-- **Sho** (secondary) — extra summons + support fire
+- **Vitruvius** — target marker; grants extra shots
+
 
 **When to run it:** as a top-tier GR damage team, and especially strong on
 bosses that land multiple hits (e.g. Gulgotz) — each of the boss's hits procs
@@ -73,18 +73,20 @@ and is in Conqueror mode is your maximum-devastation turn.
 
 - **Sho** — the standard secondary; adds summons and support fire, feeding the
   same summon-fuel plan.
-- **Big Blue** (if present) — situational extra shooter to help meet the 3+
-  threshold for Actus's active.
+- **Boss G**
+- **Trajann** - 
+- **Helbrecht** - HMH is used vs Pyskers
 
-> _[Pilot: recent meta subs and roster-dependent swaps aren't captured here yet
-> — worth adding.]_
+  ### MoW
+- **Galatian** — situational extra shooter to help meet the 3+
+  threshold for Actus's active.
 
 ## Tips & Edge Cases
 
 - **Summon management:** if summons die, switch Tan back to summoning mode and
   rebuild. Always keep 4–5 up to get full value from Actus's active and Tan's
   proc synergy.
-- **Vitruvius buff:** it adds +1 hit for all attacks against his *last* target
+- **Vitruvius buff:** it adds +1 hit for all attacks against his *_last_* target
   and persists until he shoots a different one — so keep targeting the boss to
   hold sustained fire without wasting his action.
 - **Advanced Actus timing:** always look for a window where 3+ shooters can hit
